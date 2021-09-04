@@ -1,4 +1,4 @@
-from jogo_da_velha import criarBoard, fazMovimento,  getInputValido, \
+from JogoDaVelha import criarBoard, fazMovimento,  getInputValido, \
                             printBoard, verificaGanhador,  verificaMovimento
 
 from minimax import movimentoIA
