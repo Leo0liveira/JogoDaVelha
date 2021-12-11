@@ -17,7 +17,10 @@ Você encontrará uma pasta chamada "Dataset" onde está armazenado todas as ima
 - Navio (ship)
 - Passáro (bird)
 - Sapo (frog)
-## Entrega
+
+---
+
+## Desenvolvimento
 
 ---
 
