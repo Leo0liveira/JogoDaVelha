@@ -22,10 +22,10 @@ Você encontrará uma pasta chamada "Dataset" onde está armazenado todas as ima
 
 ## Desenvolvimento
 
----
 
 ## Desenvolvido por 
 - 👩‍💻 Anália Beatriz
 - 👨‍💻 Leonardo Oliveira
 - 👨‍💻 Vinicius Marchi 
+
 ---
