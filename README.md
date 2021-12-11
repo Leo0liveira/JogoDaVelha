@@ -1,5 +1,5 @@
 # 🟢 Avaliação Sprint 3 - Programa de Bolsas Compass.uol e UFMS 🟢
-Avaliação da terceira sprint do programa de bolsas Compass.uol para formação em chatbot Rasa.
+## Avaliação da terceira sprint do programa de bolsas Compass.uol para formação em chatbot Rasa.
 ---
 ## DataSet
  O dataset escolhido foi o [CIFAR10](https://www.tensorflow.org/tutorials/images/cnn) que consiste em uma rede convulacional que reconhece padrões diversos em imagens, baseado nas seguintes classes: 
