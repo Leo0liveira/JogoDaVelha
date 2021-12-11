@@ -7,16 +7,16 @@ Você encontrará uma pasta chamada "Dataset" onde está armazenado todas as ima
 ---
 ## DataSet
  O dataset escolhido foi o [CIFAR10](https://www.tensorflow.org/tutorials/images/cnn) que consiste em uma rede convulacional que reconhece padrões diversos em imagens, baseado nas seguintes classes: 
-* Avião (airplane)
-* Automovel (automobile)
-* Cachorro (dog)
-- Caminhão (truck) 
-- Cavalo (horse)
-- Cervo (deer)
-- Gato (cat)
-- Navio (ship)
-- Passáro (bird)
-- Sapo (frog)
+  * Avião (airplane)
+  * Automovel (automobile)
+  * Cachorro (dog)
+  * Caminhão (truck) 
+  * Cavalo (horse)
+  * Cervo (deer)
+  * Gato (cat)
+  * Navio (ship)
+  * Passáro (bird)
+  * Sapo (frog)
 
 ---
 
